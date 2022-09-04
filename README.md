@@ -465,4 +465,4 @@ You've pushed your skills to a whole new level. Congratulations!
 [ramda]: https://ramdajs.com/docs/
 [filter]: https://ramdajs.com/docs/#filter
 [flip]: https://ramdajs.com/docs/#flip
-[FP]: https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0
+[FP]: https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a
